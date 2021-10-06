@@ -1,1 +1,1 @@
-# Android-OCR--Google-Vision-ML-Kits
+# OCR-Android
